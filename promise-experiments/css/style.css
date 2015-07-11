@@ -687,3 +687,13 @@ ol.commentlist .comment-author{
       height: 180px;
     }
   }
+
+
+strong.red {
+    color: red;
+    font: 15pt Consolas,"Courier New",Courier,mono;
+}
+
+h4 {
+    text-decoration: underline;
+}
